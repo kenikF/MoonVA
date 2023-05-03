@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central" />
+      <option name="url" value="http://www.alphacephei.com.com/vosk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="AlphaCephei" />
+      <option name="url" value="http://www.alphacephei.com.com/vosk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jfrog" />
+      <option name="name" value="jfrog" />
+      <option name="url" value="https://mlt.jfrog.io/artifactory/mlt-mvn-releases-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="chatgpt-java" />
+      <option name="name" value="chatgpt-java" />
+      <option name="url" value="https://raw.github.com/AcaiSoftware/chatgpt-java/repository/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven_central" />
+      <option name="name" value="Maven Central" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="marry_tts" />
+      <option name="name" value="marry_tts" />
+      <option name="url" value="https://mlt.jfrog.io/artifactory/mlt-mvn-releases-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Vosk" />
+      <option name="url" value="http://www.alphacephei.com.com/vosk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="" />
+      <option name="name" value="Vosk" />
+      <option name="url" value="http://www.alphacephei.com.com/vosk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="marytts" />
+      <option name="name" value="marytts" />
+      <option name="url" value="https://mlt.jfrog.io/artifactory/mlt-mvn-releases-local" />
+    </remote-repository>
+  </component>
+</project>
